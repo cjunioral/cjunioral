@@ -13,12 +13,6 @@
 
 [cite_start]Foco meu desenvolvimento em Engenharia de Dados, criando pipelines para coleta e transformação de dados utilizando Apache Spark e orquestração com Airflow[cite: 14, 21]. [cite_start]Tenho experiência prática na construção de processos de ETL para transformar dados brutos em insights estratégicos[cite: 21, 22].
 
----
-
-[cite_start]🇺🇸 My name is Cícero Júnior, I'm from Brazil, and I'm a Computer Engineering student focused on Data Engineering[cite: 13, 15, 42]. [cite_start]Currently, I work as an IT Intern at Grupo Queiroz, supporting ERP systems and performing database validations[cite: 18, 25, 33].
-
-[cite_start]I specialize in building data pipelines, ETL processes, and workflow orchestration using tools like Apache Airflow and PySpark[cite: 14, 21]. [cite_start]I am passionate about data quality and building scalable data architectures[cite: 19, 21].
-
 ### 🧪 Data Stack
 
 <div align="left">
@@ -31,6 +25,12 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </div>
+
+---
+
+[cite_start]🇺🇸 My name is Cícero Júnior, I'm from Brazil, and I'm a Computer Engineering student focused on Data Engineering[cite: 13, 15, 42]. [cite_start]Currently, I work as an IT Intern at Grupo Queiroz, supporting ERP systems and performing database validations[cite: 18, 25, 33].
+
+[cite_start]I specialize in building data pipelines, ETL processes, and workflow orchestration using tools like Apache Airflow and PySpark[cite: 14, 21]. [cite_start]I am passionate about data quality and building scalable data architectures[cite: 19, 21].
 
 ---
 
